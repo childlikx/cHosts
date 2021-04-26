@@ -8,6 +8,12 @@
 127.0.0.1 res.tw.ldmnq.com
 127.0.0.1 www.ldplayer.tw
 127.0.0.1 encdn.ldmnq.com
+127.0.0.1 adabdapi.ldmnq.com
+127.0.0.1 appstore.ldmnq.com
+127.0.0.1 47.243.104.44
+127.0.0.1 47.101.155.40
+127.0.0.1 106.15.196.123
+127.0.0.1 139.224.28.227
 127.0.0.1 apitw.ldmnq.com
 127.0.0.1 bandi.so
 127.0.0.1 adv.bandi.so
