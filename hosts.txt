@@ -22,6 +22,9 @@
 127.0.0.1 log.bandi.so
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 api.lapin365.com
+127.0.0.1 gz-data.com
+127.0.0.1 gzads.com
+127.0.0.1 gozendata.com
 ##    SPOTIFY - NO UPDATE - 
 127.0.0.1 upgrade.spotify.com
 127.0.0.1 www.spotify-desktop.com
