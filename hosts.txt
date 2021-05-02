@@ -25,6 +25,18 @@
 127.0.0.1 gz-data.com
 127.0.0.1 gzads.com
 127.0.0.1 gozendata.com
+127.0.0.1 emar.com
+127.0.0.1 onemob.mobi
+127.0.0.1 reyun.com
+127.0.0.1 71360.com
+127.0.0.1 zhihuiyun.net.cn
+127.0.0.1 www.chance-ad.com
+127.0.0.1 www.nequal.cn
+127.0.0.1 www.n1q.cn
+127.0.0.1 www.nequal.com
+127.0.0.1 ad7.com
+127.0.0.1 gd.xinhuanet.com
+
 ##    SPOTIFY - NO UPDATE - 
 127.0.0.1 upgrade.spotify.com
 127.0.0.1 www.spotify-desktop.com
