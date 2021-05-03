@@ -1,5 +1,5 @@
 #自定义开始
-127.0.0.1 im.dingtalk.com
+#127.0.0.1 im.dingtalk.com
 #127.0.0.1 download.alicdn.com
 127.0.0.1 firefox.com.cn
 127.0.0.1 start.firefoxchina.cn
