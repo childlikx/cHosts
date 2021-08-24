@@ -1,6 +1,17 @@
 #自定义开始
 #127.0.0.1 im.dingtalk.com
 #127.0.0.1 download.alicdn.com
+
+# 屏蔽Microsoft Edge启动页广告
+127.0.0.1 c.msn.com
+127.0.0.1 ntp.msn.com
+127.0.0.1 ntp.msn.cn
+127.0.0.1 assets.msn.cn
+127.0.0.1 api.msn.com
+127.0.0.1 browser.events.data.msn.com
+127.0.0.1 img-s-msn-com.akamaized.net
+127.0.0.1 msn.cn
+#edge end
 127.0.0.1 firefox.com.cn
 127.0.0.1 start.firefoxchina.cn
 127.0.0.1 vortex.data.microsoft.com
