@@ -7,10 +7,10 @@
 127.0.0.1 ntp.msn.com
 127.0.0.1 ntp.msn.cn
 127.0.0.1 assets.msn.cn
-127.0.0.1 api.msn.com
+#127.0.0.1 api.msn.com
 127.0.0.1 browser.events.data.msn.com
 127.0.0.1 img-s-msn-com.akamaized.net
-127.0.0.1 msn.cn
+#127.0.0.1 msn.cn
 #edge end
 127.0.0.1 firefox.com.cn
 127.0.0.1 start.firefoxchina.cn
