@@ -1,6 +1,7 @@
 #自定义开始
 #0.0.0.0 im.dingtalk.com
 #0.0.0.0 download.alicdn.com
+0.0.0.0 api.open.oppomobile.com
 
 # 屏蔽Microsoft Edge启动页广告
 0.0.0.0 ntp.msn.com
